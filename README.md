@@ -12,14 +12,14 @@ So what you may not know, is that nGlide also allows setting environment variabl
 This section explains how to create/store a "portable" version of nGlide.
 - Install [nGlide](https://www.zeus-software.com/downloads/nglide) (the latest as of writing is v2.10).
 - Download [Si[nGlide]ritY](https://github.com/BigheadSMZ/Si-nGlide-ritY/releases) from this repo. Extract the 7z to a folder.
-- Grab **glide.dll**, **glide2x.dll**, and **glide3x.dll** from the **System32** or **SysWOW64** folder and drop them in the same folder as Si[nGlide]ritY. You now have a "portable" nGlide to use with whatever game you choose.
+- Grab **glide.dll**, **glide2x.dll**, **glide3x.dll**, **3DfxSpl.dll**, **3DfxSpl2.dll**, and **3DfxSpl3.dll** from the **System32** or **SysWOW64** folder and drop them in the same folder as Si[nGlide]ritY. You now have a "portable" nGlide to use with whatever game you choose.
 - Put this folder somewhere safe so you can use it later when installing a game that uses Glide.
 - Now that you have the DLL files, you may want to uninstall the "global" nGlide if desired.
 
-![361245860-24ef91d5-c1e5-4043-9538-2594fdb66a64](https://github.com/user-attachments/assets/2c5e7f0b-4172-4f05-9ccc-ab1cce720d72)
+![image](https://github.com/user-attachments/assets/f5457a10-871d-4d09-961f-480434cb94da)
 
 This section explains how to install/use it with a game.
-- Drop the files **nGlideConfig.exe**, **nGLideLaunch.exe**, **nGlideConfig.ini**, and the **glide#.dll** the game uses into the same folder as the game's executable. If you don't know which DLL file to use, it may take some trial and error.
+- Drop the files **nGlideConfig.exe**, **nGLideLaunch.exe**, **nGlideConfig.ini**, and the **glide#.dll** and **3DfxSpl#.dll** the game uses into the same folder as the game's executable. If you don't know which DLL files to use, it may take some trial and error.
 - This makes it so the game loads the DLL file from its install folder instead instead of the Windows folder.
 - Load **nGlideConfig.exe** which will allow you to configure settings which are stored in **nGlideConfig.ini**.
 - Select the path to the game's executable. This is what will be launched when pressing **Launch** or when using **nGLideLaunch.exe**.
