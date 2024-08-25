@@ -12,7 +12,7 @@ So what you may not know, is that nGlide also allows setting environment variabl
 This section explains how to create/store a "portable" version of nGlide.
 - Install [nGlide](https://www.zeus-software.com/downloads/nglide) (the latest as of writing is v2.10).
 - Download Si-nGlide-ritY from this repo. Extract the 7z to a folder.
-- Grab **glide.dll**, **glide2x.dll**, and **glide3x.dll** from the **System32** or **SysWOW64** folder (whichever they are in) and drop them in the same folder as Si-nGlide-ritY. You now have a "portable" nGlide to use with whatever game you choose.
+- Grab **glide.dll**, **glide2x.dll**, and **glide3x.dll** from the **System32** or **SysWOW64** folder and drop them in the same folder as Si-nGlide-ritY. You now have a "portable" nGlide to use with whatever game you choose.
 - Put this folder somewhere safe so you can use it later when installing a game that uses Glide.
 - Now that you have the DLL files, you may want to uninstall the "global" nGlide if desired.
 
