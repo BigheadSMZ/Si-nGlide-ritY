@@ -34,3 +34,4 @@ I'm not a fan of any software that tries to do things "globally", and it is some
 
 # Credits
 - **[Modern FolderSelectDialog](https://stackoverflow.com/questions/66823581/use-the-upgraded-folderbrowserdialog-vista-style-in-powershell):** Ben Philipp at stackoverflow
+- **[INI File System](https://stackoverflow.com/questions/217902/reading-writing-an-ini-file):** Danny Beckett at stackoverflow.
