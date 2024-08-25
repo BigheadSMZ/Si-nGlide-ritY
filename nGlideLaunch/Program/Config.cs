@@ -17,8 +17,6 @@ namespace nGlideConfig
 
             // Initialize the INI file.
             nGlideIni.Init();
-
-
         }
     }
 }
